@@ -2,67 +2,24 @@
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0B1020"/>
-      <stop offset="0.5" stop-color="#111827"/>
-      <stop offset="1" stop-color="#0A1629"/>
-    </linearGradient>
-    <linearGradient id="panel" x1="80" y1="80" x2="340" y2="300" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#6EE7F9"/>
-      <stop offset="1" stop-color="#6C63FF"/>
-    </linearGradient>
-    <linearGradient id="lineA" x1="360" y1="120" x2="920" y2="240" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#30E0B2"/>
-      <stop offset="1" stop-color="#60A5FA"/>
-    </linearGradient>
-    <linearGradient id="lineB" x1="430" y1="250" x2="1030" y2="320" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#FFD166"/>
-      <stop offset="1" stop-color="#FF7E7E"/>
+      <stop offset="0.5" stop-color="#1E3A8A"/>
+      <stop offset="1" stop-color="#0F172A"/>
     </linearGradient>
   </defs>
 
   <rect width="1280" height="420" fill="url(#bg)"/>
 
-  <g opacity="0.2">
-    <circle cx="1080" cy="70" r="180" fill="#0EA5E9"/>
-    <circle cx="220" cy="350" r="180" fill="#6C63FF"/>
-    <circle cx="1020" cy="360" r="170" fill="#20C997"/>
-  </g>
+  <rect x="74" y="60" width="470" height="300" rx="28" fill="#0F172A" fill-opacity="0.28" stroke="#8BB8FF" stroke-opacity="0.28"/>
+
+  <text x="108" y="170" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="1.2">THIVAKAR</text>
+  <text x="108" y="220" fill="#A5F3FC" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="1.2">ALLIMUTHU</text>
+  <text x="108" y="272" fill="#DDE7FF" font-family="Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="1.5">DATA PRODUCT OWNER • DATA PLATFORM LEADER • AI READINESS</text>
 
   <g>
-    <rect x="60" y="70" width="250" height="250" rx="26" fill="#0E1729" stroke="#7DD3FC" stroke-opacity="0.5"/>
-    <rect x="95" y="100" width="180" height="180" rx="20" fill="rgba(15,23,41,0.7)" stroke="rgba(125,211,252,0.4)"/>
-    <path d="M115 210L169 150L217 210L260 170L290 238H115V210Z" fill="url(#panel)"/>
-    <circle cx="150" cy="146" r="9" fill="#6EE7F9"/>
-    <circle cx="218" cy="210" r="9" fill="#6C63FF"/>
-    <circle cx="260" cy="170" r="9" fill="#7DD3FC"/>
-  </g>
+    <rect x="108" y="300" width="184" height="34" rx="17" fill="#0F172A" stroke="#8BB8FF" stroke-opacity="0.35"/>
+    <text x="133" y="323" fill="#8BB8FF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.4">DATA PRODUCTS</text>
 
-  <g>
-    <path d="M366 160C465 110 547 107 638 138C736 171 812 236 885 246C957 257 1023 227 1098 182" stroke="url(#lineA)" stroke-width="5" stroke-linecap="round"/>
-    <path d="M382 228C476 205 565 215 638 246C719 280 803 323 884 329C955 334 1024 312 1098 276" stroke="url(#lineB)" stroke-width="5" stroke-linecap="round"/>
-    <circle cx="366" cy="160" r="8" fill="#5EEAD4"/>
-    <circle cx="638" cy="138" r="8" fill="#5EEAD4"/>
-    <circle cx="885" cy="246" r="8" fill="#60A5FA"/>
-    <circle cx="1098" cy="182" r="8" fill="#60A5FA"/>
-    <circle cx="382" cy="228" r="8" fill="#FFD166"/>
-    <circle cx="638" cy="246" r="8" fill="#FFD166"/>
-    <circle cx="884" cy="329" r="8" fill="#FF9F7A"/>
-    <circle cx="1098" cy="276" r="8" fill="#FF9F7A"/>
-  </g>
-
-  <g>
-    <text x="372" y="171" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">THIVAKAR</text>
-    <text x="372" y="213" fill="#A5F3FC" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="700">ALLIMUTHU</text>
-    <text x="372" y="252" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="1.1">Data Product Owner • Data Platform Leader • AI Readiness</text>
-  </g>
-
-  <g>
-    <rect x="372" y="285" width="228" height="42" rx="21" fill="#0F1E38" stroke="#7DD3FC" stroke-opacity="0.4"/>
-    <text x="397" y="312" fill="#7DD3FC" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">DATA PRODUCTS</text>
-
-    <rect x="620" y="285" width="165" height="42" rx="21" fill="#0F1E38" stroke="#5EEAD4" stroke-opacity="0.4"/>
-    <text x="648" y="312" fill="#5EEAD4" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">FABRIC</text>
-
-    <rect x="804" y="285" width="206" height="42" rx="21" fill="#0F1E38" stroke="#FFD166" stroke-opacity="0.4"/>
-    <text x="831" y="312" fill="#FFD166" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">AI READINESS</text>
+    <rect x="310" y="300" width="178" height="34" rx="17" fill="#0F172A" stroke="#7DD3FC" stroke-opacity="0.35"/>
+    <text x="338" y="323" fill="#7DD3FC" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.2">FABRIC</text>
   </g>
 </svg>
