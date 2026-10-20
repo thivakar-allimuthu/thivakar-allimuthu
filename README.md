@@ -1,38 +1,66 @@
-Hi, 
-I'm Thivakar Allimuthu
-Data Product Owner and Data Platform Leader with 18+ years of experience delivering enterprise-scale data, analytics, and governance solutions.
+# Hi, I'm Thivakar Allimuthu
 
-Current Focus
-I am currently expanding my expertise in:
-Microsoft Fabric
-Enterprise AI Strategy
-Data Product Management
-AI Readiness Frameworks
-Data Governance
-Semantic Models and Knowledge Graphs
-Areas of Expertise
-Data Product Ownership
-Enterprise Data Platforms
-Data Governance
-Master Data Management (MDM)
-Analytics Modernization
-Platform Operations
-Data Strategy
-Portfolio
-Enterprise AI Readiness Framework
-A practical framework for helping organizations build trusted, AI-ready data foundations.
+Data Product Owner and Data Platform Leader helping organizations turn data into trusted products, governed platforms, and AI-ready foundations.
 
-Microsoft Fabric Reference Architectures
-Reference architectures for modern analytics and AI platforms.
+---
 
-Data Product Operating Model
-Approaches for governing and scaling data products across organizations.
+## About me
 
-Data Governance Framework
-Models for ownership, stewardship, quality, and trust.
+I work across enterprise data strategy, analytics modernization, data governance, and AI readiness. My focus is on building the foundations that allow organizations to scale analytics, adopt AI responsibly, and generate measurable business value from data.
 
-Professional Goal
-Helping organizations transform data into trusted products that accelerate analytics, AI adoption, and business outcomes.
+I help teams connect:
 
-Connect
-LinkedIn: www.linkedin.com/in/thivakar-allimuthu
+- strategy to execution
+- governance to enablement
+- data architecture to business outcomes
+- analytics modernization to AI readiness
+
+---
+
+## Current focus
+
+- Microsoft Fabric
+- Enterprise AI Strategy
+- AI Readiness Frameworks
+- Data Product Operating Models
+- Semantic Models and Knowledge Graphs
+- Data Governance and Trust
+
+---
+
+## Featured portfolio
+
+### Enterprise AI Readiness Framework
+A practical framework for building trusted, AI-ready enterprise data foundations.
+
+GitHub: https://github.com/thivakar-allimuthu/enterprise-ai-readiness-framework
+
+### Enterprise Data and AI Transformation
+Helping organizations design scalable, governed data ecosystems that support analytics, platform modernization, and AI adoption.
+
+---
+
+## Core expertise
+
+- Data Product Ownership
+- Enterprise Data Platform Leadership
+- Data Governance
+- Master Data Management (MDM)
+- Analytics Modernization
+- Platform Operations
+- Data Strategy
+
+---
+
+## Professional goal
+
+To help organizations transform data into strategic assets that power analytics, AI adoption, and business value at scale.
+
+---
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/thivakar-allimuthu
+- GitHub: https://github.com/thivakar-allimuthu
+
+---
