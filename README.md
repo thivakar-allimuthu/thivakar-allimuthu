@@ -1,5 +1,16 @@
 # Hi, I'm Thivakar Allimuthu
 
+<p align="center">
+  <img src="./banner.svg" width="1280" alt="Thivakar Allimuthu banner" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Data%20Product%20Owner-0A84FF?style=for-the-badge" alt="Data Product Owner" />
+  <img src="https://img.shields.io/badge/Focus-Enterprise%20AI%20Readiness-6C63FF?style=for-the-badge" alt="AI Readiness" />
+  <img src="https://img.shields.io/badge/Platform-Microsoft%20Fabric-20C997?style=for-the-badge" alt="Microsoft Fabric" />
+  <img src="https://img.shields.io/badge/Governance-Data%20Trust-FFB84C?style=for-the-badge" alt="Data Governance" />
+</p>
+
 Data Product Owner and Data Platform Leader helping organizations turn data into trusted products, governed platforms, and AI-ready foundations.
 
 ---
